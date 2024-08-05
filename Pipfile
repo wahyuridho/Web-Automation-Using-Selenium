@@ -7,10 +7,10 @@ name = "pypi"
 
 
 [dev-packages]
-selenium = "*"
-pytest = "*"
-webdriver-manager = "*"
-pytest-spec = "*"
+selenium = "4.23.1"
+pytest = "8.3.2"
+webdriver-manager = "4.0.2"
+pytest-spec = "3.2.0"
 
 [requires]
 python_version = "3.12"
